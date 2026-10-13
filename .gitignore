@@ -1,0 +1,19 @@
+# Archivos binarios y compilados grandes
+ffmpeg.exe
+ffmpeg-master-latest-win64-gpl/
+*.wav
+*.m4a
+*.webm
+*.mp3
+
+# Python y compilaciones
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.spec
+
+# Entornos virtuales
+venv/
+.env
