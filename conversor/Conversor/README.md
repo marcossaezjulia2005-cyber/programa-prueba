@@ -24,3 +24,4 @@ Para iniciar la aplicación, abre una terminal en esta carpeta y ejecuta:
 ```bash
 python conversor.py
 ```
+
